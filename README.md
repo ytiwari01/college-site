@@ -1,2 +1,2 @@
 # firstnavbar
-my first college site
+First college site
